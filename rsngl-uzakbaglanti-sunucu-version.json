@@ -4,6 +4,6 @@
   "forceUpdate": false,
   "allowedVersions": ["2"],
   "latestVersion": "2",
-  "downloadUrl": "https://raw.githubusercontent.com/rsngluygulamalarimdestek/rsngl-uzakbaglanti-istemci-version/main/rsngl-uzakbaglanti-sunucu-version.json",
+  "downloadUrl": "https://raw.githubusercontent.com/rsngluygulamalarimdestek/rsngl-uzakbaglanti-version/main/rsngl-uzakbaglanti-sunucu-version.json",
   "message": "Bu sürüm artık kullanılamaz. Devam etmek için güncel sürümü yükleyin."
 }
