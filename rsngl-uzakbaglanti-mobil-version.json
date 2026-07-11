@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 1,
-  "latestVersionCode": 1,
+  "minVersionCode": 2,
+  "latestVersionCode": 2,
   "forceUpdate": false,
   "updateUrl": "https://play.google.com/store/apps/details?id=rsngl.ump",
   "title": "Güncelleme gerekli",
